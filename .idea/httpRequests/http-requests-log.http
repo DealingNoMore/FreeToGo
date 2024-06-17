@@ -1,0 +1,18 @@
+GET http://localhost:9000/api/weather?begin=2024-05-29&end=2024-05-31&city=长沙
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-29T111624.200.json
+
+###
+
+GET http://localhost:9000/api/weather?begin=2024-05-29&end=2024-05-31&city=长沙
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-29T111229.200.txt
+
+###
+

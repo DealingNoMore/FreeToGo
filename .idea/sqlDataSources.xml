@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="3682ff0e-49eb-4eeb-983a-fe3604be0fc8" name="freetogo@freetogo.fun (DDL) Mapping">
+      <data-sources ddl="53d917c3-3ede-4b24-8acb-9aef00fb45ee" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+</project>

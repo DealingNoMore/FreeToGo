@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d796c4cf-dc27-46a9-b613-0fd5802e0258" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="使用 Maven 包装器" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2g6IzaQN2PxYkKibqumzqntuZxt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JUnit.FreeToGoApplicationTests.testDao.executor": "Run",
+    "Maven.FreeToGo [clean].executor": "Run",
+    "Maven.FreeToGo [install].executor": "Run",
+    "Maven.FreeToGo [package].executor": "Run",
+    "Maven.FreeToGo [test].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.FreeToGoApplication.executor": "Run",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/backup.sql",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言": [
+      "MySQL"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.softegg.freetogo.Api.captcha" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\Java\FreeToGo\src\main\resources\static" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.softegg.freetogo.Login.service" />
+      <recent name="com.softegg.freetogo.Login.controller" />
+      <recent name="com.softegg.freetogo.User.Bean" />
+      <recent name="com.softegg.freetogo.User.Controller" />
+      <recent name="com.softegg.freetogo.User.Service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FreeToGoApplication">
+    <configuration name="FreeToGoApplicationTests.testDao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FreeToGo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softegg.freetogo.User.Dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.softegg.freetogo" />
+      <option name="MAIN_CLASS_NAME" value="com.softegg.freetogo.FreeToGoApplicationTests" />
+      <option name="METHOD_NAME" value="testDao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreeToGoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="FreeToGo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.softegg.freetogo.FreeToGoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FreeToGoApplicationTests.testDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-cf227e86" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d796c4cf-dc27-46a9-b613-0fd5802e0258" name="更改" comment="" />
+      <created>1715011864161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715011864161</updated>
+      <workItem from="1715011865216" duration="1917000" />
+      <workItem from="1715063269839" duration="71000" />
+      <workItem from="1715063378733" duration="5975000" />
+      <workItem from="1715096181652" duration="31000" />
+      <workItem from="1715096248216" duration="8000" />
+      <workItem from="1715096285443" duration="9917000" />
+      <workItem from="1715134129408" duration="3183000" />
+      <workItem from="1715213947585" duration="15822000" />
+      <workItem from="1715255807244" duration="5771000" />
+      <workItem from="1715267406821" duration="58000" />
+      <workItem from="1715267486370" duration="127000" />
+      <workItem from="1715267637447" duration="56000" />
+      <workItem from="1715267708344" duration="3339000" />
+      <workItem from="1715272360783" duration="5656000" />
+      <workItem from="1715298400955" duration="2680000" />
+      <workItem from="1715301104194" duration="6711000" />
+      <workItem from="1715311409900" duration="917000" />
+      <workItem from="1715312400349" duration="4305000" />
+      <workItem from="1715353069970" duration="6411000" />
+      <workItem from="1715394961973" duration="5082000" />
+      <workItem from="1715409705285" duration="47000" />
+      <workItem from="1715411535233" duration="59000" />
+      <workItem from="1715414126825" duration="2557000" />
+      <workItem from="1715443652469" duration="4299000" />
+      <workItem from="1715489982364" duration="2396000" />
+      <workItem from="1715517887388" duration="3955000" />
+      <workItem from="1715566686448" duration="850000" />
+      <workItem from="1715671349222" duration="1674000" />
+      <workItem from="1715700158694" duration="3965000" />
+      <workItem from="1715731506265" duration="3935000" />
+      <workItem from="1715739031624" duration="175000" />
+      <workItem from="1715772732074" duration="7214000" />
+      <workItem from="1715818233263" duration="7037000" />
+      <workItem from="1715840967310" duration="9638000" />
+      <workItem from="1715907219720" duration="840000" />
+      <workItem from="1715910974149" duration="5376000" />
+      <workItem from="1715932190409" duration="7000" />
+      <workItem from="1715932218744" duration="2034000" />
+      <workItem from="1715949853950" duration="2953000" />
+      <workItem from="1715991525226" duration="755000" />
+      <workItem from="1716174222391" duration="1528000" />
+      <workItem from="1716446999348" duration="3415000" />
+      <workItem from="1716452013816" duration="107000" />
+      <workItem from="1716462102594" duration="2954000" />
+      <workItem from="1716511539800" duration="2756000" />
+      <workItem from="1716553798151" duration="652000" />
+      <workItem from="1716597688584" duration="2421000" />
+      <workItem from="1716602357189" duration="591000" />
+      <workItem from="1716602961350" duration="4273000" />
+      <workItem from="1716901837937" duration="1412000" />
+      <workItem from="1716941374957" duration="1988000" />
+      <workItem from="1716944076489" duration="1609000" />
+      <workItem from="1716949422790" duration="10106000" />
+      <workItem from="1717053832208" duration="1376000" />
+      <workItem from="1717069655260" duration="3054000" />
+      <workItem from="1717113904250" duration="2700000" />
+      <workItem from="1717377651702" duration="1588000" />
+      <workItem from="1717400432993" duration="797000" />
+      <workItem from="1717403109631" duration="222000" />
+      <workItem from="1717415199825" duration="3277000" />
+      <workItem from="1717482645265" duration="5766000" />
+      <workItem from="1717498531227" duration="3581000" />
+      <workItem from="1717547155684" duration="1735000" />
+      <workItem from="1717548928167" duration="1828000" />
+      <workItem from="1717551243776" duration="99000" />
+      <workItem from="1717551637429" duration="682000" />
+      <workItem from="1717552337168" duration="4785000" />
+      <workItem from="1717558971647" duration="60000" />
+      <workItem from="1717559307097" duration="91000" />
+      <workItem from="1717559416595" duration="597000" />
+      <workItem from="1717573432005" duration="2699000" />
+      <workItem from="1717730895039" duration="26000" />
+      <workItem from="1718087388880" duration="3842000" />
+      <workItem from="1718107452843" duration="1080000" />
+      <workItem from="1718154656383" duration="1713000" />
+      <workItem from="1718173769649" duration="2062000" />
+      <workItem from="1718175842254" duration="5994000" />
+      <workItem from="1718609207404" duration="1524000" />
+      <workItem from="1718626906753" duration="1556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.context.annotation.ConflictingBeanDefinitionException" package="org.springframework.context.annotation" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
